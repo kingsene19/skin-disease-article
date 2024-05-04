@@ -1,2 +1,5 @@
 # Removal of the Datasets folder
 Datasets/**
+
+# Remove DS_Store file
+.DS_Store
